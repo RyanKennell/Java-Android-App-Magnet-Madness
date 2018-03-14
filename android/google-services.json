@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "908794325961",
+    "firebase_url": "https://libgdx-af6eb.firebaseio.com",
+    "project_id": "libgdx-af6eb",
+    "storage_bucket": "libgdx-af6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908794325961:android:a29c971dfc44c526",
+        "android_client_info": {
+          "package_name": "com.mygdx.game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908794325961-f6dl5pr44q53fuatt5ikemd67rviq4bh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mygdx.game",
+            "certificate_hash": "d0ff6ba38436f4d4f4384413f297557eb2c3ed8d"
+          }
+        },
+        {
+          "client_id": "908794325961-vq5u4r0u5onuodehs3eul27h5g055h0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJGn78QixHQCCQeJu2nmJe4AQ7qdWZgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908794325961-vq5u4r0u5onuodehs3eul27h5g055h0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
